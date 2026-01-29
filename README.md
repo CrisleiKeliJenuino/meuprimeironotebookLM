@@ -32,9 +32,17 @@ O foco do projeto **não é recomendação financeira**, mas sim **aprendizado, 
 
 ---
 
-## 📚 Fontes de Conhecimento Utilizadas
+## 📚 Materiais Extraídos do NotebookLM
 
-Os seguintes materiais foram utilizados como base no NotebookLM e estão disponíveis neste repositório:
+Os arquivos disponíveis neste repositório **não são as fontes originais utilizadas para criação do conteúdo**, mas sim **materiais exportados/baixados a partir de um NotebookLM já estruturado**, como parte do desafio proposto no curso.
+
+Esses materiais representam:
+
+* Conteúdos consolidados pelo NotebookLM
+* Organização do conhecimento gerada com apoio de GenAI
+* Sínteses e estruturas educacionais sobre o tema
+
+Arquivos disponibilizados:
 
 * 📄 **PDF – Investimento Global: Estrutura e Blindagem**
   🔗 [Acessar PDF](./Bradesco%20-%20GenAI%20%26%20Dados/Investimento_Global_Estrutura_e_Blindagem.pdf)
@@ -45,7 +53,7 @@ Os seguintes materiais foram utilizados como base no NotebookLM e estão dispon�
 * 🎥 **Vídeo Educacional – Investir no Exterior**
   🔗 [https://youtu.be/cY8hn-wsMjc](https://youtu.be/cY8hn-wsMjc)
 
-Esses materiais foram inseridos no **NotebookLM** para análise, correlação e geração de insights com apoio da IA.
+Esses materiais foram utilizados **como evidência prática do uso do NotebookLM e da aplicação de GenAI no processo de aprendizado**, não como fontes primárias de pesquisa.
 
 ---
 
