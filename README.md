@@ -47,9 +47,6 @@ Arquivos disponibilizados:
 * 📄 **PDF – Investimento Global: Estrutura e Blindagem**
   🔗 [Acessar PDF](./Bradesco%20-%20GenAI%20%26%20Dados/Investimento_Global_Estrutura_e_Blindagem.pdf)
 
-* 🧾 **Mapa Mental – Arquitetura de Dividendos e Blindagem Patrimonial**
-  🔗 [Acessar Mapa Mental](./Bradesco%20-%20GenAI%20%26%20Dados/Arquitetura_de_Dividendos_e_Blindagem_Patrimonial.png)
-
 ### 📌 Visualização do Mapa Mental
 
 ![Mapa Mental – Arquitetura de Dividendos e Blindagem Patrimonial](./Bradesco%20-%20GenAI%20%26%20Dados/Arquitetura_de_Dividendos_e_Blindagem_Patrimonial.png)
