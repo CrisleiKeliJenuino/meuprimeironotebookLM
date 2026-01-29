@@ -48,10 +48,7 @@ Arquivos disponibilizados:
   🔗 [Acessar PDF](./Bradesco%20-%20GenAI%20%26%20Dados/Investimento_Global_Estrutura_e_Blindagem.pdf)
 
 * 🎥 **Vídeo Educacional – Investir no Exterior**
-  🔗 [https://youtu.be/cY8hn-wsMjc](https://youtu.be/cY8hn-wsMjc)
-
-* 🎥 **Vídeo Educacional – Investir no Exterior**
-  🔗 [https://youtu.be/cY8hn-wsMjc](https://youtu.be/cY8hn-wsMjc)
+  🔗 https://youtu.be/cY8hn-wsMjc
 
 Esses materiais foram utilizados **como evidência prática do uso do NotebookLM e da aplicação de GenAI no processo de aprendizado**, não como fontes primárias de pesquisa. **Os materiais de pesquisa e as fontes originais encontram-se organizados e disponíveis dentro do próprio NotebookLM**.
 
