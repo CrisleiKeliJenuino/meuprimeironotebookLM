@@ -37,13 +37,13 @@ O foco do projeto **não é recomendação financeira**, mas sim **aprendizado, 
 Os seguintes materiais foram utilizados como base no NotebookLM e estão disponíveis neste repositório:
 
 * 📄 **PDF – Investimento Global: Estrutura e Blindagem**
-  Caminho: `Bradesco - GenAI & Dados/Investimento_Global_Estrutura_e_Blindagem.pdf`
+  🔗 [Acessar PDF](./Bradesco%20-%20GenAI%20%26%20Dados/Investimento_Global_Estrutura_e_Blindagem.pdf)
 
 * 🧾 **Mapa Mental – Arquitetura de Dividendos e Blindagem Patrimonial**
-  Caminho: `Bradesco - GenAI & Dados/Arquitetura_de_Dividendos_e_Blindagem_Patrimonial.png`
+  🔗 [Acessar Mapa Mental](./Bradesco%20-%20GenAI%20%26%20Dados/Arquitetura_de_Dividendos_e_Blindagem_Patrimonial.png)
 
 * 🎥 **Vídeo Educacional – Investir no Exterior**
-  Caminho: `Bradesco - GenAI & Dados/Investir_no_Exterior.mp4`
+  🔗 [https://youtu.be/cY8hn-wsMjc](https://youtu.be/cY8hn-wsMjc)
 
 Esses materiais foram inseridos no **NotebookLM** para análise, correlação e geração de insights com apoio da IA.
 
