@@ -50,13 +50,6 @@ Arquivos disponibilizados:
 * 🎥 **Vídeo Educacional – Investir no Exterior**
   🔗 [https://youtu.be/cY8hn-wsMjc](https://youtu.be/cY8hn-wsMjc)
 
-- 🧾 **Mapa Mental – Arquitetura de Dividendos e Blindagem Patrimonial**
-  🔗 [Acessar Mapa Mental](./Bradesco%20-%20GenAI%20%26%20Dados/Arquitetura_de_Dividendos_e_Blindagem_Patrimonial.png)
-
-### 📌 Visualização do Mapa Mental
-
-![Mapa Mental – Arquitetura de Dividendos e Blindagem Patrimonial](./Bradesco%20-%20GenAI%20%26%20Dados/Arquitetura_de_Dividendos_e_Blindagem_Patrimonial.png)
-
 * 🎥 **Vídeo Educacional – Investir no Exterior**
   🔗 [https://youtu.be/cY8hn-wsMjc](https://youtu.be/cY8hn-wsMjc)
 
@@ -64,29 +57,10 @@ Esses materiais foram utilizados **como evidência prática do uso do NotebookLM
 
 ---
 
-## 🧩 Estrutura do Repositório
-
-````bash
-📁 Bradesco - GenAI & Dados
-│
-├── README.md
-├── Investimento_Global_Estrutura_e_Blindagem.pdf
-└── Investir_no_Exterior.mp4
-```bash
-📁 investimentos-genai-dio
-│
-├── README.md               # Documentação do projeto
-├── /materiais              # PDFs, mapas mentais e referências
-├── /notebooklm             # Prints ou descrições do NotebookLM
-└── /anotacoes              # Resumos e aprendizados gerados com IA
-````
-
----
-
 ## 🚀 Etapas do Desenvolvimento
 
 1. Definição do tema: **Investimentos no Exterior**
-2. Seleção dos materiais de estudo (PDF, mapa mental e vídeo)
+2. Seleção dos materiais de estudo (links de matérias na web e links do youtube)
 3. Criação do NotebookLM
 4. Upload e organização das fontes
 5. Geração de resumos e conexões com IA
